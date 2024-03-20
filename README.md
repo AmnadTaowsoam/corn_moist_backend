@@ -1,1 +1,2 @@
-# corn_moist_backend
+### generate Secret Key:
+python -c "import secrets; print(secrets.token_hex(32))"
